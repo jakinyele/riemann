@@ -134,6 +134,7 @@ OPCODE_LIST = [
     ("OP_NOP3", 178),
     ("OP_CHECKSEQUENCEVERIFY", 178),
     ("OP_NOP4", 179),
+    ("OP_BOLT", 179),
     ("OP_NOP5", 180),
     ("OP_NOP6", 181),
     ("OP_NOP7", 182),
